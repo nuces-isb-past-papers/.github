@@ -19,4 +19,5 @@
 
 ## Contributers
 <p align="center">
+  <a href="https://github.com/Vikram-Kumar-Parmar"><img src="https://github.com/Vikram-Kumar-Parmar.png" width="50" title="hover text"></a>
 </p>
