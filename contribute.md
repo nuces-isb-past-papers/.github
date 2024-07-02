@@ -1,4 +1,8 @@
-## How to add past papers {ALL contribution is welcome! this is a peer project}
+## Submit past papers to website!
+If the website doesn't have past papers that you have, send it to them with details on this email: wondarlms@gmail.com
+
+
+## How to add past papers to this repo {ALL contribution is welcome! this is a peer project}
 
 To contribute: Make a fork of this repository (on PC browser)
 
